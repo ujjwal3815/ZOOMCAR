@@ -15,18 +15,18 @@ function Advantage() {
             you
           </p>
         </center>
-        {Sdata.map(val => {
-        return (
-          <div className="box1">
-          <Cards
-            imgsrc={val.imgsrc}
-            title={val.title}
-            sname={val.sname}
-            link={val.link}
-          />
-          </div>
-        );
-      })}
+        <div className="box1">
+          {Sdata.map((val) => {
+            return (
+              <Cards
+                imgsrc={val.imgsrc}
+                title={val.title}
+                sname={val.sname}
+                link={val.link}
+              />
+            );
+          })}
+        </div>
       </section>
     </>
   );

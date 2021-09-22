@@ -9,7 +9,7 @@ function Backgroundimg() {
           <h3>Self Drive Car Rental In Bangalore </h3>
           <button type="text">Start a Wonderful Journey :)</button>
         </section>
-        <img id="Slide" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRog9cebagpdLwDomvAhtUWfNgpfD1l2tAHw&usqp=CAU"/>
+        <img id="Slide" src = "https://analyticsindiamag.com/wp-content/uploads/2019/08/46346679_1433126363490936_8832158335038914560_o-e1565778146625.jpg"/>
       </section>
     </>
   );
